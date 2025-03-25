@@ -44,7 +44,7 @@ export function AboutSection() {
 
           <div className="order-1 lg:order-2 relative">
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg">
-              <Image src="/placeholder.svg?height=600&width=800" alt="Hotel exterior" fill className="object-cover" />
+              <Image src="https://le-cdn.website-editor.net/s/4126dc9806774f8188f699b389e985fb/dms3rep/multi/opt/2023-09-Groneberger-Sa-0058-1355d056-1920w.jpg?Expires=1743677346&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sZS1jZG4ud2Vic2l0ZS1lZGl0b3IubmV0L3MvNDEyNmRjOTgwNjc3NGY4MTg4ZjY5OWIzODllOTg1ZmIvZG1zM3JlcC9tdWx0aS9vcHQvMjAyMy0wOS1Hcm9uZWJlcmdlci1TYS0wMDU4LTEzNTVkMDU2LTE5MjB3LmpwZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY3NzM0Nn19fV19&Signature=AnWVwuYo1MKMauU4vfWxS5MO-j-U7wxvVBK3YkMTy~X~jg3~QxdGlHnH4ZtG~qnBmXV2i8U6QhxrFCV2tKAzh7B6XvqbgivSIlITaMzAYY9r1mJsDfUEJ4kmEfR8fpznoBsFbJ~LY2kk2vurS3cB7cRWZa3U06zcYtib4INgU3Togfz0XPl2J9b0HDvPKM56j92JzEHA2l2YaiS9jQHmWc0ecFNx53~Frrqi22Wfq6wGtkz3Syss2Riwi73mWhHhIhzX8mbgAqwfJFnmVOXXAXBKkOHK7TVuQ84xY2ImRWbOPBtTnLetX0hPsGIMf~ZfRtTnt0hG9NXc3LFNKHJUxA__&Key-Pair-Id=K2NXBXLF010TJW" alt="Hotel exterior" fill className="object-cover" />
             </div>
           </div>
         </div>
