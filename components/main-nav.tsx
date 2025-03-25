@@ -48,17 +48,17 @@ export function MainNav() {
                   </a>
                 </NavigationMenuLink>
               </li>
-              <ListItem href="/rooms?capacity=2" icon={<Bed className="h-4 w-4" />} title="Standard Rooms">
-                Perfect for couples or solo travelers
+              <ListItem href="/rooms?capacity=2" icon={<Bed className="h-4 w-4" />} title="Alle Ferienhäuser">
+                Entdecke 32 luxoriöse Ferienhäuser
               </ListItem>
-              <ListItem href="/rooms?capacity=4" icon={<Bed className="h-4 w-4" />} title="Family Suites">
-                Spacious accommodations for families
+              <ListItem href="/rooms?capacity=4" icon={<Bed className="h-4 w-4" />} title="Urlaub mit Hund">
+                Ostsee Urlaub mit deinem Hund
               </ListItem>
-              <ListItem href="/rooms?seaView=true" icon={<Bed className="h-4 w-4" />} title="Sea View Rooms">
-                Breathtaking views of the water
+              <ListItem href="/rooms?seaView=true" icon={<Bed className="h-4 w-4" />} title="Ferienhaus mit Seeblick">
+                Direkt am Wasser entspannen
               </ListItem>
-              <ListItem href="/rooms?dogsAllowed=true" icon={<Bed className="h-4 w-4" />} title="Pet-Friendly Rooms">
-                Accommodations that welcome your furry friends
+              <ListItem href="/rooms?dogsAllowed=true" icon={<Bed className="h-4 w-4" />} title="Ferienhaus mit Hund">
+                Dein Vierbeiner ist herzlich willkommen
               </ListItem>
             </ul>
           </NavigationMenuContent>
