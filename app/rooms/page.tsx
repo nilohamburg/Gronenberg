@@ -348,8 +348,8 @@ export default function RoomsPage() {
     <main className="min-h-screen">
       <Navbar />
       <PageHeader
-        title="Rooms & Suites"
-        description="Discover our collection of 32 unique accommodations, each offering comfort and luxury in the heart of nature."
+        title="Ferienhäuser"
+        description="Entdecke 32 einzigartige Ferienhäuser an der Ostsee, jedes mit einzigartigem Charm und im Herzen der Natur."
         image="/images/room-bg.jpg"
       />
 
