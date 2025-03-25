@@ -31,13 +31,13 @@ export function SuperMenu({ scrolled = false }: SuperMenuProps) {
         link: "/rooms/presidential-suite",
       },
       links: [
-        { href: "/rooms?capacity=2", label: "Standard Rooms", description: "Perfect for couples or solo travelers" },
-        { href: "/rooms?capacity=4", label: "Family Suites", description: "Spacious accommodations for families" },
-        { href: "/rooms?seaView=true", label: "Sea View Rooms", description: "Breathtaking views of the water" },
+        { href: "/rooms?capacity=2", label: "Alle Ferienhäuser", description: "Perfect for couples or solo travelers" },
+        { href: "/rooms?capacity=4", label: "Familien Ferienhäuser", description: "Spacious accommodations for families" },
+        { href: "/rooms?seaView=true", label: "Ferienhäuser mit Seeblick", description: "Breathtaking views of the water" },
         {
           href: "/rooms?dogsAllowed=true",
-          label: "Pet-Friendly Rooms",
-          description: "Accommodations that welcome your furry friends",
+          label: "Ferienhäuser mit Hund",
+          description: "Urlaub mit Hund an der Ostsee",
         },
       ],
     },
