@@ -23,8 +23,8 @@ export function RoomsSection() {
           <div className="order-1 lg:order-2 relative">
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg">
               <Image
-                src="/placeholder.svg?height=600&width=800"
-                alt="Luxury hotel room"
+                src="https://le-cdn.website-editor.net/s/4126dc9806774f8188f699b389e985fb/dms3rep/multi/opt/Gronenberger-Muehle-Terrassenhaueser-2018-web-1920w.jpg?Expires=1743677346&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sZS1jZG4ud2Vic2l0ZS1lZGl0b3IubmV0L3MvNDEyNmRjOTgwNjc3NGY4MTg4ZjY5OWIzODllOTg1ZmIvZG1zM3JlcC9tdWx0aS9vcHQvR3JvbmVuYmVyZ2VyLU11ZWhsZS1UZXJyYXNzZW5oYXVlc2VyLTIwMTgtd2ViLTE5MjB3LmpwZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY3NzM0Nn19fV19&Signature=MPjGge-BL1EcaxHuydBfMUmytBl7WHK2Dk~UlF~WIttVoHqCg0JGShpO3DmWqsiuPjgMeSFlb6G0siCs15hzO-sfOj-gyDfRq91oTB6hfuU25mQalLTdjfLWmLyy4OG3N0R6ViLOJVd9YYdCJXUcz70Xx1rBw0Sxl00M8vEXDo~oZ1jgVAGmvjCAawOlCn9Q-ILdmq7vGHJm1mGAQSXJKt4QQc41Z0C7sJzI8B3QQXbCM~PcIdcAIDr-nJ47UZbQkDEx7LYKY6LWFTiGW2IxkNt3Wn-NmSoudAODWWiQNPBSmLRWpgf9LTxlqpG5R7Ii-fQSwjkRvX8DN9Oi60zpvA__&Key-Pair-Id=K2NXBXLF010TJW"
+                alt="Ferienhäuser an der Ostsee Scharbeutz"
                 fill
                 className="object-cover"
               />
