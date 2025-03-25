@@ -7,7 +7,7 @@ export function LanguageSwitcher() {
   const { language, setLanguage } = useLanguage()
 
   const toggleLanguage = () => {
-    setLanguage(language === "EN" ? "DE" : "EN")
+    setLanguage(language === "DE" ? "EN" : "DE")
   }
 
   return (
