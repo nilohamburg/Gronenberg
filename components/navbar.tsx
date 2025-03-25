@@ -30,7 +30,7 @@ export function Navbar() {
   }, [pathname])
 
   const toggleLanguage = useCallback(() => {
-    setLanguage(language === "EN" ? "DE" : "EN")
+    setLanguage(language === "DE" ? "EN" : "DE")
   }, [language, setLanguage])
 
   // Mobile navigation items
