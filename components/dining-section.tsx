@@ -15,7 +15,7 @@ export function DiningSection() {
           <div className="relative">
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="https://le-cdn.website-editor.net/s/4126dc9806774f8188f699b389e985fb/dms3rep/multi/opt/Weintafel-5-1920w.jpg?Expires=1743677346&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sZS1jZG4ud2Vic2l0ZS1lZGl0b3IubmV0L3MvNDEyNmRjOTgwNjc3NGY4MTg4ZjY5OWIzODllOTg1ZmIvZG1zM3JlcC9tdWx0aS9vcHQvV2VpbnRhZmVsLTUtMTkyMHcuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQzNjc3MzQ2fX19XX0_&Signature=sxC8r0dpVeZ0eGMlhYG-6hP-yzPD3b5v~2hKTvrVHinK9FVrzNX-KCbes580Ij9iM3AN-nX~B0MGes3~smkPXI2SRQYohl1tVJHBcth7zJG3YIan-z0EXv~0ILiwCiQOXo~J60hr-awsMa1ogEkgDiGh5H5Mp3oqjcsmWzLhAJWFmL-K2Rq76PELllIbxfzrgE8Bk~JxRlj2xl2nDfkyUm4XQjySTN6Yt1MTpeDqwXdGq9EZitwpFn6A-93laKAXaXT-xfCXLeoZGK-FPBpxmXRG4t7jBRx9DYQFH9meEg8a~6K5wQsRWVofL6s2P6vkMS2HgeMLARmrtNmFi4W7sA__&Key-Pair-Id=K2NXBXLF010TJW"
                 alt="Fine dining restaurant"
                 fill
                 className="object-cover"
