@@ -17,9 +17,9 @@ const translations = {
   EN: {
     // Navbar
     home: "Home",
-    rooms: "Rooms & Suites",
-    dining: "Restaurants & Bars",
-    spa: "Alpine Spa",
+    rooms: "Vacation Homes",
+    dining: "Restaurant",
+    spa: "Wellness",
     meetings: "Meetings & Events",
     about: "About",
     contact: "Contact",
@@ -91,8 +91,8 @@ const translations = {
     // Navbar
     home: "Startseite",
     rooms: "Ferienhäuser",
-    dining: "Restaurants & Bars",
-    spa: "Alpen Spa",
+    dining: "Restaurant",
+    spa: "Wellness",
     meetings: "Tagungen & Events",
     about: "Über uns",
     contact: "Kontakt",
