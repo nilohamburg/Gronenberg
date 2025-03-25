@@ -138,7 +138,7 @@ const translations = {
     // About
     aboutTitle: "Gronenberger Mühle",
     aboutDescription:
-      "In einem ikonischen Gebäude aus dem 19. Jahrhundert bietet dieses luxuriöse 5-Sterne-Hotel zeitlosen europäischen Luxus mit unvergleichlichem Zugang zu Naturpfaden. Der urbane Charme in der friedlichen Umgebung des Landes macht das Resort zu einem wahren Rückzugsort.",
+      "Dein exklusives Wohlfühlresort mit wunderschönen Ferienhäusern nahe der Ostsee, eingebettet in die atemberaubende Natur der Pönitzer Seenplatte.",
     hotelDetails: "HOTELDETAILS",
 
     // Footer
