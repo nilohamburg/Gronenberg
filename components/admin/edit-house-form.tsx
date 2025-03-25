@@ -270,7 +270,7 @@ export function EditHouseForm({ houseId }: EditHouseFormProps) {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   {[
                     "WiFi",
-                    "Coffee Machine",
+                    "Kaffeemaschine",
                     "TV",
                     "Fireplace",
                     "Private Garden",
