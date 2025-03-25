@@ -358,7 +358,7 @@ export default function RoomsPage() {
         <div className="mb-8">
           <div
             className={cn(
-              "bg-white rounded-lg shadow-md transition-all duration-300 overflow-hidden",
+              "bg-white rounded-lg shadow-md transition-all duration-300 overflow-hidden border border-lightgray",
               isSearchExpanded ? "p-6" : "p-4",
             )}
           >
