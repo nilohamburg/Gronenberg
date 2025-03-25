@@ -100,7 +100,7 @@ const translations = {
     bookNow: "JETZT BUCHEN",
 
     // Hero
-    heroTitle: "Historischer Charme trifft modernen Luxus",
+    heroTitle: "Urlaub an der Ostsee mit historischem Charme",
     heroSubtitle:
       "Erleben Sie die perfekte Mischung aus traditioneller Eleganz und zeitgemäßem Komfort in der Gronenberger Mühle",
     checkAvailability: "VERFÜGBARKEIT PRÜFEN",
@@ -113,7 +113,7 @@ const translations = {
     selectCheckOut: "Wählen Sie das Abreisedatum",
 
     // Rooms
-    roomsTitle: "Zimmer & Suiten",
+    roomsTitle: "Ferienhäuser",
     roomsDescription:
       "Wachen Sie auf mit atemberaubenden Ausblicken auf die Landschaft. Tauchen Sie ein in Fünf-Sterne-Luxus, wo Eleganz auf zeitgemäßes Design trifft. Wählen Sie aus unseren wunderschön eingerichteten Zimmern und Suiten, die für höchsten Komfort und Entspannung konzipiert sind.",
     discoverMore: "MEHR ENTDECKEN",
