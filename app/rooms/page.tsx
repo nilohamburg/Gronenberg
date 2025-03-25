@@ -350,7 +350,7 @@ export default function RoomsPage() {
       <PageHeader
         title="Ferienhäuser"
         description="Entdecke 32 einzigartige Ferienhäuser an der Ostsee, jedes mit einzigartigem Charm und im Herzen der Natur."
-        image="/images/room-bg.jpg"
+        image="https://dyn.v-office.com/image/xl/5380722.jpg"
       />
 
       <div className="container mx-auto px-4 py-12">
