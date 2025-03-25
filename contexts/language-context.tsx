@@ -90,7 +90,7 @@ const translations = {
   DE: {
     // Navbar
     home: "Startseite",
-    rooms: "Zimmer & Suiten",
+    rooms: "Ferienhäuser",
     dining: "Restaurants & Bars",
     spa: "Alpen Spa",
     meetings: "Tagungen & Events",
