@@ -83,8 +83,8 @@ export function RoomCard({ room }: { room: RoomProps }) {
         <div className="flex flex-wrap gap-3 text-gray-500 text-xs sm:text-sm mb-4">
           {room.amenities.slice(0, 3).map((amenity, index) => (
             <div key={index} className="flex items-center gap-1">
-              {amenity === "Interent" && <Wifi className="h-3 w-3" />}
-              {amenity === "Kaffeemaschine" && <Coffee className="h-3 w-3" />}
+              {amenity === "Wifi" && <Wifi className="h-3 w-3" />}
+              {amenity === "Coffe Machine" && <Coffee className="h-3 w-3" />}
               {amenity === "TV" && <Tv className="h-3 w-3" />}
               {amenity}
             </div>
