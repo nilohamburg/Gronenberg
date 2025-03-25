@@ -28,10 +28,8 @@ export function DiningSection() {
             <p className="text-base sm:text-lg text-gray-700 mb-6 sm:mb-8">{t("diningDescription")}</p>
 
             <div className="grid grid-cols-2 gap-x-4 gap-y-2 mb-6 sm:mb-8">
-              <h3 className="text-xl sm:text-2xl font-playfair">Mühle Restaurant</h3>
-              <h3 className="text-xl sm:text-2xl font-playfair">The Lounge</h3>
-              <h3 className="text-xl sm:text-2xl font-playfair">Garden Terrace</h3>
-              <h3 className="text-xl sm:text-2xl font-playfair">Wine Cellar</h3>
+              <h3 className="text-xl sm:text-2xl font-playfair">Hofküche</h3>
+              <h3 className="text-xl sm:text-2xl font-playfair">Wein Keller</h3>
             </div>
 
             <Button variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white" asChild>
