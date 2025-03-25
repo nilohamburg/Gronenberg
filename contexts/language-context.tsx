@@ -115,17 +115,17 @@ const translations = {
     // Rooms
     roomsTitle: "Ferienhäuser",
     roomsDescription:
-      "Wachen Sie auf mit atemberaubenden Ausblicken auf die Landschaft. Tauchen Sie ein in Fünf-Sterne-Luxus, wo Eleganz auf zeitgemäßes Design trifft. Wählen Sie aus unseren wunderschön eingerichteten Zimmern und Suiten, die für höchsten Komfort und Entspannung konzipiert sind.",
+      "Freuen Sie sich auf neu errichtete, modernste Ferienhäuser in einer märchenhaften Naturidylle, die schon jetzt für Sie buchbar ist. Herzstück des wundervoll ruhig gelegenen Hains ist die denkmalgeschützte Gronenberger Wassermühle aus dem 17. Jahrhundert, die in liebevoller Kleinarbeit saniert wurde.",
     discoverMore: "MEHR ENTDECKEN",
 
     // Dining
-    diningTitle: "Restaurants & Bars",
+    diningTitle: "Restaurant",
     diningDescription:
-      "Entdecken Sie eine verlockende Mischung aus traditionellen und kosmopolitischen Geschmäckern mit unserer renommierten kulinarischen Note. Erleben Sie eine kulinarische Reise in preisgekrönten Restaurants mit einer Mischung aus Gourmetküche, lokalen Spezialitäten und internationalen Gerichten. Genießen Sie erlesene Weine und Cocktails in unserer anspruchsvollen Lobbybar.",
+      "In unserer historischen Wassermühle verbinden sich Tradition und Genuss: umgeben von altem Gemäuer und rustikalen Holzbalken können Sie unserem Küchenchef Konstantin direkt bei der Zubereitung unserer saisonalen Köstlichkeiten zusehen.",
     showAll: "ALLE ANZEIGEN",
 
     // Spa
-    spaTitle: "Wellness Spa",
+    spaTitle: "Wellness & Massage",
     spaDescription:
       "Das Spa ist der Ort, um sich nach einem Tag voller Outdoor-Abenteuer verwöhnen zu lassen. Für das ultimative Spa-Erlebnis tauchen Sie ein in ultimativen Luxus und Ruhe im Spa. Auf 1.200 qm bietet unser Wellnesscenter verschiedene Saunen, einen beheizten Innenpool, einen Garten und ein hochmodernes Fitnessstudio.",
     readMore: "WEITERLESEN",
@@ -133,7 +133,7 @@ const translations = {
     // Meetings
     meetingsTitle: "Tagungen & Events",
     meetingsDescription:
-      "Heben Sie Ihr Geschäft auf ein neues Qualitätsniveau mit tadellosen Dienstleistungen, erstklassiger Küche und anspruchsvollen Veranstaltungsorten. Planen Sie Ihre Firmenveranstaltungen, Konferenzen, Teambuildings, Incentives und Hochzeiten mit modernster Technologie in der inspirierenden und unberührten Landschaft.",
+      "Die Gronenberger Mühle ist nicht nur ein Ort der Erholung, sondern auch eine exklusive Location für unvergessliche Events. Ob Hochzeiten, Familienfeiern oder Firmenevents – in unserer Hofküche, im Weinkeller oder im stilvollen Seminarraum sowie auf dem gesamten Anwesen bieten wir Ihnen den perfekten Rahmen für ihre besonderen Anlässe. Feiern Sie in historischem Ambiente und lassen sich und ihre Gäste verzaubern!",
 
     // About
     aboutTitle: "Gronenberger Mühle",
